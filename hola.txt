@@ -2,4 +2,4 @@ Hola profesor este mensaje es para indicar que en las carpetas del proyecto (log
 
 login/core:es el archivo de configuracion de URL que le dice a Django qué función de Python debe ejecutar cuando un usuario visita una dirección específica en el navegador
 
-login-register: posee las URL, las vistas las importaciones, las bases, el home y toda la funcionalidad de la APP HTML5 y DJANGO
+login-register: posee las URL, las vistas las importaciones, las bases, el home y toda la funcionalidad de la APP HTML5 y DJANGO.
