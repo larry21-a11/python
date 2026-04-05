@@ -1,1 +1,5 @@
-quiuvo
+Hola profesor este mensaje es para indicar que en las carpetas del proyecto (login y login-register), cada una posee las siguientes funcionalidades que en funcion de las 2, es posible el despliege, arranque y funcionamineto de la APP.
+
+login/core:es el archivo de configuracion de URL que le dice a Django qué función de Python debe ejecutar cuando un usuario visita una dirección específica en el navegador
+
+login-register: posee las URL, las vistas las importaciones, las bases, el home y toda la funcionalidad de la APP HTML5 y DJANGO
