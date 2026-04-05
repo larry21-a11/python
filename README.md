@@ -1,4 +1,7 @@
-Hola profesor estos son las tecnologias digitales que utilize en la realizacion de esta APP
+Hola profesor Soy el alumno larry velasquez 28.277.340, del subproyecto de Desarrollo de aplicaciones 2
+seccion FS-01, de los dias domingos para el profesor Rafael Rojas
+
+estos son las tecnologias digitales que utilize en la realizacion de esta APP
 
 VERSION DE GIT
 Git-2.53.0.2-64-bit
